@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social</title>
+</head>
+<body>
+    <h1>Minhas redes sociais</h1>
+    <h2>Quem sou eu?</h2>
+    <img src="IMG_32.jpg" alt="Foto Perfil">
+    <p>Meu nome é Felipe Cordeiro, sou estudante de programação e estou tendo meus primeiro passos no desenvolvimento Web</p>
+    <h2>Como falar comigo?</h2>
+    <ul>
+        <li><a href="https://instagram.com/mustachefe" target="_blank" rel="external">/mustachefe</a> - Me segue lá no Instagram</li>
+        <li><a href="https://github.com/Mustaxefe" target="_blank" rel="external">/mustaxefe</a> - Acesse meu repositório público no GitHub</li>
+        <li><a href="https://www.linkedin.com/in/felipe-cordeiro-6bb15613b" target="_blank" rel="external">/FelipeCordeiro</a> - Acesse meu Linkedin</li>
+    </ul>
+    
+</body>
+</html>
